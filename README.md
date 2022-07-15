@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @T-bagram
+- 👋 Hi, I’m @Dennis Kibet
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on any project
